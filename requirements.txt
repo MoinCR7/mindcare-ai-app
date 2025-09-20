@@ -1,4 +1,4 @@
-
+matplotlib
 streamlit
 streamlit-option-menu
 tensorflow
