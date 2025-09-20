@@ -1,17 +1,9 @@
 
-streamlit-option-menu==0.3.12
-
-
-pandas==2.2.1
-numpy==1.26.4
-SpeechRecognition==3.10.3
-streamlit==1.35.0
-streamlit-option-menu==0.3.12
-
-
-PyAudio==0.2.14
-
-streamlit>=1.40.0
-streamlit-option-menu==0.3.12
-tensorflow==2.20.0
-scikit-learn==1.5.1
+streamlit
+streamlit-option-menu
+tensorflow
+scikit-learn
+pandas
+numpy
+SpeechRecognition
+PyAudio
